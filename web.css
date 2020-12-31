@@ -1,0 +1,77 @@
+/*!
+ * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
+ */
+
+body{
+	padding: 0;
+	margin:0; 
+    background: url(s.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: 'Popins',sans-serif
+;
+}
+
+<!--heading-->
+header{
+	width:100%;
+	background: #000;
+
+}
+header ul{
+	display: flex;
+	justify-content: flex-end;
+	max-width: 1200px;
+	padding: 0;
+	margin: 0 auto;
+}
+header ul li{
+     list-style: none;
+     position: relative;
+     padding: 20px;
+     box-sizing: border-box;
+     border-right: 1px solid rgba(255,255,255,.2);
+
+}
+header ul li:hover{
+	background:#04F913 ;
+}
+header ul li a{
+       text-decoration: none;
+        text-shadow: 2px 2px 4px #F6E005  ;
+       color:#E106DA  ;
+
+
+
+
+
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
